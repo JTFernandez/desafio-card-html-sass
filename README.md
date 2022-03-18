@@ -8,4 +8,4 @@ https://www.frontendmentor.io/challenges/profile-card-component-cfArpWshJ
 
 Este fue mi resultado:
 
-https://jtfernandez.github.io/desafio-card-html-scss/
+https://jtfernandez.github.io/frontendmentor-profile-card-component/
